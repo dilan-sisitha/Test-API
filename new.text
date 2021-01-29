@@ -1,0 +1,9 @@
+dependacnies
+
+express
+nodemon
+mysql
+env
+
+
+to start nodemon app.js
